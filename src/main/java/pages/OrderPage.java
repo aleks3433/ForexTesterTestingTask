@@ -4,7 +4,6 @@ import framework.BrowserManager;
 import framework.Utilities;
 import framework.XLSParser;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
-import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
