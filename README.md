@@ -1,6 +1,7 @@
 # ForexTesterTestingTask
 Данное задание выполнено на Java, сборщик проекта Maven, инструмент для автоматизации Selenium WebDriver, фреймворк для тестирования TestNG.
 Так же используется паттерн Page Object и класс Page Factory.
+Результаты сравнивались только в Chrome браузере
 
 Страница, которая тестировалась https://forextester.com/test72
 
